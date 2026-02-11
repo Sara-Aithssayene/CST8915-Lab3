@@ -4,7 +4,7 @@
 
 - Youtube Demo Video: https://www.youtube.com/watch?v=sxJbqlYdOl8
 - Order service repo: https://github.com/Sara-Aithssayene/order-service
-- Product service repo: https://github.com/Sara-Aithssayene/product-service
+- Product service repo: https://github.com/Sara-Aithssayene/product-service-Lab3
 - Store front repo: https://github.com/Sara-Aithssayene/store-front
 
 ## Reflection Questions
